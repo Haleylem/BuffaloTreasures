@@ -72,6 +72,6 @@ Project for keeping an oral architectural history of Buffalo
       }
   </script>
 </html>
-
+ 
 ### Swan Street Diner
 
